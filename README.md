@@ -1,4 +1,4 @@
-Toto List app with React js:
+Todo List app with React js:
   -create todos
   -delete todos
   -complete / uncomplete todos
