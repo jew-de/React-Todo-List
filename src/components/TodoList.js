@@ -1,8 +1,11 @@
 import React from 'react';
 
+// import components
 import Todo from './Todo.js';
 
 const TodoList = ({ todos, setTodos, filteredTodos }) => {
+    // loop through todos
+    // render a Todo for each todo in the list
     return (
         <div>
             <ul>
